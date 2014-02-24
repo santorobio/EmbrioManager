@@ -1,0 +1,2 @@
+﻿4444444444444444444444
+cara com o goleiro. O pivô deve manter também um posicionamento de modo que possa receber a bola, girar e arremessar. Neste sistema deve-se também haver um grande entrosamento entre o ponta (1) e o armador (2), pois as melhores oportunidades de gols podem surgir de jogadas realizadas pelos dois 
