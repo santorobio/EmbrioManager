@@ -3,5 +3,5 @@ EmbrioManager
 
 E-Book Manager
 
-Used to manage a e-book of embriology.
+Used to manage the interactive e-book "Embriologia Humana Integrada: Animações e Casos Clínicos".
 MIT Lincence.
